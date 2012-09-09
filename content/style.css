@@ -1,0 +1,13 @@
+
+
+#content {
+	padding: 0;
+	margin: 0;
+}
+
+#flexBox {
+	background-color: #77f;
+	position: relative;
+	top: 2px;
+	left: 2px;
+}
