@@ -1,0 +1,4 @@
+This is a very simple demo of using the HTML5 Canvas object in a jquery mobile application.
+The Canvas is dynamically re-sized to fill the jQuery Mobile content area.
+It is re-sized initially, whenever an orientationchange or resize events are received.
+This app will only work on TOUCH-based devices. It doesn't support the mouse.
